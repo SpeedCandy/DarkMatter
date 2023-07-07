@@ -4,6 +4,6 @@ A cold, dark & frosty theme.
 
 ![Preview](https://i.imgur.com/xSG96qa.png)
 
-## Credits
+## Creditnig
 * Hammock for making the original theme.
 * Devilbro for giving me permission to use his BlurpleRecolor theme. This saved a lot of time.
